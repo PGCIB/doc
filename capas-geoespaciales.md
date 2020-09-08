@@ -12,7 +12,7 @@ Capas geoespaciales
   <tr><td>Variables bioclimáticas</td><td>https://www.worldclim.org/</td></tr>
   <tr><td>Imágenes satelitales</td><td>Capa de fondo de ESRI u otro proveedor</td></tr>
   <tr><td>Zonas de vida</td><td>Atlas del TEC 2018</td></tr>
-  <tr><td>Territorios indígenas</td><td>Atlas del TEC 2018</td></tr>
+  <tr><td>Territorios indígenas</td><td>Atlas del TEC 2014</td></tr>
   <tr><td>Humedales</td><td>SNIT</td></tr>
-  <tr><td>Unidades fitogeográficas</td><td>Atlas del TEC 2018</td></tr>
+  <tr><td>Unidades fitogeográficas</td><td>Atlas del TEC 2014</td></tr>
 </table>
