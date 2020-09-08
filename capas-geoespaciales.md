@@ -14,4 +14,5 @@ Capas geoespaciales
   <tr><td>Zonas de vida</td><td>Atlas del TEC 2018</td></tr>
   <tr><td>Territorios indígenas</td><td>Atlas del TEC 2018</td></tr>
   <tr><td>Humedales</td><td>SNIT</td></tr>
+  <tr><td>Unidades fitogeográficas</td><td>Atlas del TEC 2018</td></tr>
 </table>
